@@ -27,10 +27,9 @@ Added color-coded status badges (Opened, Pending) using Bootstrap styling.
 
 Made tables mobile-friendly with table-responsive.
 
+Unzip Online-Support-System-master.zip folder
 
-git clone https://github.com/harsha198805/Online-Support-System.git
-
-cd Online-Support-System
+cd Online-Support-System-master
 
 composer install
 
